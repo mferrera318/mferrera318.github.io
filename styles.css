@@ -1,0 +1,30 @@
+
+h1{
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+}
+
+.header-section{
+	text-align: center;
+}
+
+.article-body{
+	display: flex;
+	justify-content: center;
+}
+
+.article-text{
+	padding: 10 px;
+}
+
+img{
+	width: 700px;
+	height: auto;
+}
+
+.map{
+	padding-top: 20px;
+	height: 721px;
+}
