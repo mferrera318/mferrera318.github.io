@@ -1,0 +1,39 @@
+
+h1{
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 40px;
+}
+
+.header-section{
+	text-align: center;
+}
+
+.article-body{
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+.article-text{
+	padding-bottom: 20px;
+}
+
+.photo{
+	text-align: center;
+	font-weight: 700;
+	padding-bottom: 10px;
+}
+
+img{
+	width: 800px;
+	height: auto;
+}
+
+.map{
+	height: 300px;
+	margin-bottom: 50px;
+}
